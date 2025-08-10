@@ -1,0 +1,101 @@
+shoe_id,brand,model,type,color,material
+1,"Rodriguez, Figueroa and Sanchez",Chair 395,sneaker,Red,Leather
+2,"Garcia, Yang and Gardner",Performance 437,dress shoe,Black,Mesh
+3,Johnson-Davis,Early 316,sneaker,Black,Leather
+4,"Guzman, Hoffman and Baldwin",Science 114,sneaker,Black,Leather
+5,"Barnes, Cole and Ramirez",True 938,sneaker,Red,Leather
+6,Blake and Sons,Save 747,dress shoe,Blue,Synthetic
+7,Peterson-Moore,Source 692,dress shoe,Blue,Leather
+8,Garcia-James,Her 478,sneaker,White,Synthetic
+9,Munoz-Roman,Show 140,dress shoe,Black,Mesh
+10,Herrera-Dudley,Human 132,dress shoe,Blue,Mesh
+11,Arnold Ltd,Present 827,sneaker,Blue,Mesh
+12,Ray-Bush,Answer 646,sneaker,Blue,Leather
+13,"Perez, Roberts and Miller",Early 561,dress shoe,Black,Leather
+14,James Group,Prove 317,dress shoe,Blue,Mesh
+15,Martin-Kelly,Religious 970,dress shoe,Black,Synthetic
+16,Miles-Sutton,Away 114,running shoe,White,Leather
+17,"Reid, Ferguson and Sanchez",Maintain 790,dress shoe,Red,Synthetic
+18,Nelson-Schaefer,Rise 340,sneaker,Red,Mesh
+19,"Robinson, Nguyen and Tate",Arrive 584,dress shoe,Blue,Leather
+20,Underwood LLC,Institution 754,dress shoe,Black,Leather
+21,Jones-Gentry,Our 259,dress shoe,Blue,Synthetic
+22,"Edwards, Rios and Foster",Who 185,running shoe,White,Leather
+23,"Ellis, Baker and Wright",Option 673,sneaker,Black,Mesh
+24,"Baker, Richards and Hurst",Inside 895,running shoe,White,Synthetic
+25,Robinson-Bright,Mr 739,running shoe,Blue,Leather
+26,Davis-Williams,Break 330,running shoe,Black,Leather
+27,Burton Ltd,Knowledge 476,dress shoe,White,Leather
+28,"Brown, James and Ferrell",Newspaper 727,sneaker,Black,Synthetic
+29,Maddox-Valencia,Activity 458,running shoe,Red,Synthetic
+30,"Le, Maldonado and Herrera",Example 748,running shoe,Black,Leather
+31,"Peterson, Carter and Moore",About 918,running shoe,Red,Synthetic
+32,"Liu, Baker and Mason",Could 926,running shoe,Red,Leather
+33,"Gaines, Harrell and Evans",Purpose 791,sneaker,White,Leather
+34,"Lynch, Hernandez and Farmer",Notice 541,running shoe,Blue,Mesh
+35,"Sellers, George and Burns",Brother 486,sneaker,Black,Leather
+36,Koch-Decker,Food 180,dress shoe,Black,Mesh
+37,Brown PLC,Your 741,running shoe,Blue,Leather
+38,Miller Group,Team 835,sneaker,Black,Synthetic
+39,Spence PLC,Space 737,running shoe,Black,Mesh
+40,Anderson Group,Your 771,running shoe,Red,Synthetic
+41,"Martin, Rose and Obrien",Development 935,dress shoe,Blue,Synthetic
+42,"Campos, Vaughn and Marquez",Inside 500,dress shoe,White,Leather
+43,"Santos, Kim and Holmes",Camera 983,running shoe,White,Mesh
+44,Walker LLC,Against 610,sneaker,Black,Synthetic
+45,"Spencer, Chapman and Smith",Second 425,sneaker,Blue,Synthetic
+46,"Brown, Jones and Johnson",Give 502,running shoe,Blue,Synthetic
+47,Palmer LLC,Relationship 246,dress shoe,Red,Leather
+48,Lewis-Anderson,Worry 739,dress shoe,White,Leather
+49,"Johnston, Sanchez and Kennedy",Investment 878,sneaker,Black,Mesh
+50,Davis Ltd,Lawyer 250,dress shoe,White,Mesh
+51,Henderson-Owens,Shoulder 710,dress shoe,Red,Mesh
+52,Nunez Ltd,Billion 723,sneaker,Red,Leather
+53,Powell LLC,Such 101,sneaker,Red,Mesh
+54,Wright and Sons,Not 751,sneaker,Black,Synthetic
+55,Taylor-White,Maintain 108,sneaker,Blue,Synthetic
+56,Baxter Inc,Level 915,dress shoe,Red,Mesh
+57,"Garcia, Pearson and Fernandez",Administration 219,sneaker,Red,Synthetic
+58,House and Sons,Compare 724,running shoe,Red,Mesh
+59,Tucker-Lewis,Institution 326,running shoe,Black,Synthetic
+60,Martin Inc,In 252,sneaker,White,Mesh
+61,House-Glover,Feeling 437,running shoe,White,Synthetic
+62,Horton-Cross,Step 819,sneaker,Black,Leather
+63,"Stanley, Tucker and Lee",Director 679,sneaker,White,Leather
+64,Riley PLC,Ask 915,dress shoe,Blue,Leather
+65,"Edwards, Williams and Woods",Wide 739,sneaker,Red,Synthetic
+66,"Moore, Yu and Miller",Cultural 982,running shoe,Blue,Mesh
+67,Larson Ltd,Training 849,running shoe,White,Mesh
+68,Powell PLC,Employee 464,dress shoe,White,Synthetic
+69,"Wheeler, Harvey and Barnes",Past 126,running shoe,Black,Mesh
+70,"Mills, Donovan and Harris",Sense 708,dress shoe,Red,Leather
+71,Allen-Foster,Remain 552,sneaker,Red,Synthetic
+72,"Evans, Stewart and Walton",Baby 615,dress shoe,Red,Leather
+73,Ellis PLC,Black 611,sneaker,Red,Mesh
+74,Medina PLC,Evidence 576,running shoe,Black,Mesh
+75,Mahoney Inc,Until 198,sneaker,Black,Leather
+76,Wood and Sons,Left 596,running shoe,Black,Synthetic
+77,"Warner, Carr and Archer",Ready 198,sneaker,Red,Synthetic
+78,"Smith, Montoya and Evans",Record 352,sneaker,Red,Synthetic
+79,Mcmillan and Sons,Everything 260,dress shoe,Red,Mesh
+80,Preston Ltd,On 892,running shoe,Blue,Mesh
+81,Nelson PLC,Develop 669,dress shoe,Red,Mesh
+82,"Cooper, Watts and Farrell",Mouth 891,running shoe,Red,Synthetic
+83,King-Odonnell,Approach 953,dress shoe,White,Synthetic
+84,Walters LLC,Another 254,running shoe,White,Mesh
+85,Cook and Sons,Public 884,sneaker,Black,Synthetic
+86,Martin-Ramos,Season 345,dress shoe,Black,Mesh
+87,Hoffman-Rodriguez,You 858,running shoe,Blue,Mesh
+88,"Mckee, Gardner and Davenport",Pass 507,sneaker,Red,Mesh
+89,"Hernandez, Anderson and Parker",Way 924,sneaker,Red,Leather
+90,Nolan and Sons,Rest 875,running shoe,Red,Mesh
+91,Estrada LLC,State 982,dress shoe,Blue,Mesh
+92,"Henson, Russell and Oliver",Clear 933,dress shoe,Blue,Mesh
+93,Hancock and Sons,Upon 150,sneaker,White,Synthetic
+94,Johnson-Doyle,Go 289,sneaker,White,Mesh
+95,Pham-Shields,Talk 669,running shoe,Black,Mesh
+96,Adams Ltd,Box 937,dress shoe,White,Synthetic
+97,Brennan-Garrison,Doctor 543,sneaker,Black,Leather
+98,Velasquez Group,Hard 671,sneaker,Blue,Mesh
+99,Hoover-Savage,Dog 976,running shoe,Blue,Synthetic
+100,Keller Group,Get 922,sneaker,White,Mesh
