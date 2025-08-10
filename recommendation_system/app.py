@@ -137,19 +137,19 @@ with tab6:
         st.write("### Interaction Type Distribution")
         st.write("Bar chart above shows the frequency of View, Purchase, and Wishlist interactions, indicating browsing behavior, conversion rates, and user intent.")
 
-        # Additional Visualization: Shoe Type Popularity
+        # Visualization: Shoe Type Popularity
         shoe_type_counts = shoes['type'].value_counts()
         st.bar_chart(shoe_type_counts, use_container_width=True)
         st.write("### Shoe Type Popularity")
         st.write("This bar chart displays the distribution of shoe types (sneaker, running shoe, dress shoe), highlighting user preferences.")
 
-        # Additional Visualization: Interaction by User
+        # Visualization: Interaction by User
         user_interaction_counts = interactions['user_id'].value_counts().head(10)
         st.bar_chart(user_interaction_counts, use_container_width=True)
         st.write("### Top 10 Active Users")
         st.write("This chart shows the top 10 users by interaction count, offering insights into engagement levels.")
 
-        # Additional Visualization: Care Frequency by Shoe
+        # Visualization: Care Frequency by Shoe
         care_per_shoe = care_history['shoe_id'].value_counts().head(10)
         st.bar_chart(care_per_shoe, use_container_width=True)
         st.write("### Top 10 Most Cared-for Shoes")
@@ -167,7 +167,7 @@ with tab7:
         user_id = st.selectbox("Select User ID", users['user_id'].unique(), key="outfit_user")
         if st.button("Generate Recommendations", key="gen_outfit_button"):
             try:
-                # Filter shoes based on outfit/event type
+            
                 outfit_mapping = {
                     "Casual": ["sneaker"],
                     "Formal": ["dress shoe"],
